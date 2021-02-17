@@ -5,6 +5,5 @@
 
 ## Pro-tips
 
-- Ko prvi udje dobije najlaksa pitanja
-
+- Ko prvi uđe dobije najlakša pitanja
 
