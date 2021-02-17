@@ -5,5 +5,8 @@
 
 ## Pro-tips
 
-- Ko prvi uđe dobije najlakša pitanja
+- Ko prvi uđe na usmeni ispit dobije najlakša pitanja
+- Kolege koje poslednje uđu mogu da očekuju pitanja poput:
+  - Garbage collector
+  - JVM, JRE, JDK
 
