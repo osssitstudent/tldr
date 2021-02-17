@@ -4,4 +4,4 @@
 
 ### Drugi semestar
 
-[UOP](prva-godina/drugi-semestar/UOP)
+[Uvod u objektno programiranje](prva-godina/drugi-semestar/UOP)
